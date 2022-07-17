@@ -10,6 +10,6 @@ Simple Tools Voice Generator
 <pre>bash install.sh</pre>
 
 ### One Commands
-<pre>pkg update; pkg upgrade; pkg install bash; pkg install git; git clone https://github.com/NuLz404/magickvoice.git; cd magickvoice; ls; bash install.sh</pre>
+<pre>pkg update; pkg upgrade; pkg install bash; pkg install git; git clone https://github.com/NuLz404/magickvoice.git && cd magickvoice; ls; bash install.sh</pre>
 
 <i>Enjoy<i>
